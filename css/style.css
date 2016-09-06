@@ -1,0 +1,42 @@
+/*
+     SANDER SAYS:
+     NO WARRANTIES EXPRESSED OR IMPLIED
+     FOR USING THIS CODE. THIS OR SIMILAR
+     CODE WAS WRITTEN BEFORE, AND IT WILL
+     BE WRITTEN AGAIN... BUT IT DOESN'T
+     MATTER - BECAUSE WE ARE IN THIS
+     TOGETHER. EVERYTHING COULD HAVE BEEN
+     ANYTHING ELSE, AND IT WOULD HAVE
+     JUST AS MUCH MEANING. C'EST LA VIE.
+     COMPLIMENTS? PARTY INVITATIONS?
+     RIGHT ON! CONTACT @HYPERABSOLUTE ON
+     TWITTER OR ON UXRIG.COM
+     STAY AWESOME | HYPERABSOLUTE
+*/
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/*
+SOCIAL STYLES APPEAR BELOW.
+ALSO REMEMBER TO REFERENCE THE JS URL IN THE JS PAN SETTINGS: http://codepen.io/Sander-Nizni/pen/mPoOjg
+*/
+
+#social-container {
+  opacity: 0.9;
+	bottom: 5px;
+	right: 5px;
+}
+#social-container p{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+#social-container #social-links a {
+	font-size: 2.8rem;
+}
+#social-message {
+	font-size: 1.15rem;
+}
