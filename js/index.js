@@ -316,6 +316,7 @@ social("codepen/sander-nizni",
 		 "twitter/hyperabsolute",
 		 "linkedin/sandernizni",
      "instagram/hyperabsolute",
+     "/typhoon.yelp.com",
      "facebook/sander.nizni",
      "/sandernizni.wordpress.com",
      "light", "Sander says... Try it in full screen, dawg.");
